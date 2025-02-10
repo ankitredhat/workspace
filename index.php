@@ -7,7 +7,7 @@ welcome! I love sallu bhai
 </h1>
 
 <?php
-echo "Hello World! Ashi!!!!! i am aditya and ashish";
+echo "Hello World! Ashi!!!!! i am ankit and ashish";
 ?>
 
 </body>
